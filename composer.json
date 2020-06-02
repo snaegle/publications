@@ -30,7 +30,7 @@
     "typo3-ter/publications": "self.version"
   },
   "require-dev": {
-    "typo3/cms-core": ">=8.7.0 <=8.7.99",
+    "typo3/cms-core": ">=8.7.0 <10.0.0",
     "nimut/testing-framework": "^4.0",
     "mikey179/vfsstream": "^1.6",
     "phpunit/phpunit": "^6.0",
